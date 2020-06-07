@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/json-path-4.3.0-dist/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/json-path-4.3.0-dist/groovy-3.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/json-path-4.3.0-dist/groovy-json-3.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/json-path-4.3.0-dist/json-path-4.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/json-path-4.3.0-dist/docs/json-path-4.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/json-path-4.3.0-dist/docs/json-path-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/json-path-4.3.0-dist/docs/rest-assured-common-4.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/json-path-4.3.0-dist/docs/rest-assured-common-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/json-schema-validator-4.3.0-dist/docs/json-schema-validator-4.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/json-schema-validator-4.3.0-dist/docs/json-schema-validator-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/json-schema-validator-4.3.0-dist/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/json-schema-validator-4.3.0-dist/btf-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/json-schema-validator-4.3.0-dist/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/json-schema-validator-4.3.0-dist/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/json-schema-validator-4.3.0-dist/jackson-annotations-2.10.2.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/json-schema-validator-4.3.0-dist/jackson-core-2.10.2.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/json-schema-validator-4.3.0-dist/jackson-coreutils-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/json-schema-validator-4.3.0-dist/jackson-databind-2.10.2.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/json-schema-validator-4.3.0-dist/joda-time-2.9.7.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/json-schema-validator-4.3.0-dist/jopt-simple-5.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/json-schema-validator-4.3.0-dist/json-schema-core-1.2.10.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/json-schema-validator-4.3.0-dist/json-schema-validator-2.2.10.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/json-schema-validator-4.3.0-dist/json-schema-validator-4.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/json-schema-validator-4.3.0-dist/jsr305-3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/json-schema-validator-4.3.0-dist/libphonenumber-8.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/json-schema-validator-4.3.0-dist/mailapi-1.4.3.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/json-schema-validator-4.3.0-dist/msg-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/json-schema-validator-4.3.0-dist/rhino-1.7.7.1.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/json-schema-validator-4.3.0-dist/uri-template-0.9.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/rest-assured-4.3.0-dist/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/rest-assured-4.3.0-dist/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/rest-assured-4.3.0-dist/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/rest-assured-4.3.0-dist/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/rest-assured-4.3.0-dist/groovy-3.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/rest-assured-4.3.0-dist/groovy-json-3.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/rest-assured-4.3.0-dist/groovy-xml-3.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/rest-assured-4.3.0-dist/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/rest-assured-4.3.0-dist/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/rest-assured-4.3.0-dist/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/rest-assured-4.3.0-dist/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/rest-assured-4.3.0-dist/jakarta.activation-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/rest-assured-4.3.0-dist/jakarta.xml.bind-api-2.3.2.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/rest-assured-4.3.0-dist/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/rest-assured-4.3.0-dist/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/rest-assured-4.3.0-dist/rest-assured-4.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/rest-assured-4.3.0-dist/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/rest-assured-4.3.0-dist/docs/json-path-4.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/rest-assured-4.3.0-dist/docs/json-path-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/rest-assured-4.3.0-dist/docs/rest-assured-4.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/rest-assured-4.3.0-dist/docs/rest-assured-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/rest-assured-4.3.0-dist/docs/rest-assured-common-4.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/rest-assured-4.3.0-dist/docs/rest-assured-common-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/rest-assured-4.3.0-dist/docs/xml-path-4.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/rest-assured-4.3.0-dist/docs/xml-path-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/scala-support-4.3.0-dist/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/scala-support-4.3.0-dist/jakarta.activation-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/scala-support-4.3.0-dist/jakarta.xml.bind-api-2.3.2.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/scala-support-4.3.0-dist/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/scala-support-4.3.0-dist/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/scala-support-4.3.0-dist/scala-library-2.13.0.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/scala-support-4.3.0-dist/scala-support-4.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/xml-path-4.3.0-dist/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/xml-path-4.3.0-dist/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/xml-path-4.3.0-dist/groovy-3.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/xml-path-4.3.0-dist/groovy-xml-3.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/xml-path-4.3.0-dist/jakarta.activation-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/xml-path-4.3.0-dist/jakarta.xml.bind-api-2.3.2.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/xml-path-4.3.0-dist/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/xml-path-4.3.0-dist/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/xml-path-4.3.0-dist/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/xml-path-4.3.0-dist/xml-path-4.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/xml-path-4.3.0-dist/docs/rest-assured-common-4.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/xml-path-4.3.0-dist/docs/rest-assured-common-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/xml-path-4.3.0-dist/docs/xml-path-4.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_POSTMAN/REST_Assured_JArs/xml-path-4.3.0-dist/docs/xml-path-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Jars_Selenium/testng-6.14.3.jar"/>
+	<classpathentry kind="lib" path="E:/API Training DOCs_SOAPUI/jcommander-1.78.jar"/>
+	<classpathentry kind="src" path="/automation"/>
+	<classpathentry kind="lib" path="C:/Jars_Selenium/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Jars_Selenium/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Jars_Selenium/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Jars_Selenium/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Jars_Selenium/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Jars_Selenium/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Jars_Selenium/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
