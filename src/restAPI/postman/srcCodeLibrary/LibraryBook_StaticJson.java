@@ -34,6 +34,7 @@ public class LibraryBook_StaticJson {
 		when().post("Library/DeleteBook.php").
 		then().log().all().assertThat().statusCode(200);
 		System.out.println("**************Deleted Book**********");
+		System.out.println("**************Deleted Book3456789**********");
 	}
 	
 	
